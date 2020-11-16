@@ -4,9 +4,9 @@ Proyecto de Realidad Aumentada para el curso de Tecnologías Emergentes e Innova
 ## Recursos
 - Aplicación: aplicacion.apk
 - Imágenes:
-  - imagen-izquierda.jpeg
-  - imagen-derecha.jpeg
-  - imagen-central.jpeg
+  - imagen-izquierda.jpg
+  - imagen-derecha.jpg
+  - imagen-central.jpg
 
 ## Uso
 - Instalar la aplicación en un dispositivo móvil Android
